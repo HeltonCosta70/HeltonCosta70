@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @HeltonCosta
+- 🖥️ Front End Developer
+- 🌱 I’m currently learning functional programming and web development
+- 👨‍🎓 information system (SI) (Uniruy)
+- 🎓 Graduated in Science Aeronautic (Uniftc)
+- 📫 How to reach me heltoncosta@hotmail.com  
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Playing Sports, Games🎮, Watching Animes and Travel
+- Languages: Brazilian Portuguese, Intermediate Spanish and Intermediate English
